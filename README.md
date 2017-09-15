@@ -1,6 +1,6 @@
 # topical-data-analysis
 
-The idea is to source and analyse some interesting data sets and propagate trends to make them useable in data-criven decision making.
+The idea is to source and analyse some interesting data sets and propagate trends to make them useable in data-driven decision making.
 
 This is also a total draft and playground.
 
